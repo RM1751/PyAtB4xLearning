@@ -6,3 +6,5 @@ print(radios)
 print(math.pi)
 Area = math.pi * math.pow(radios, 2)
 print(f"Area of circle is =>, {Area:.2f}")
+
+
