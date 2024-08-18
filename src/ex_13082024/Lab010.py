@@ -21,5 +21,5 @@ multiply = num1 * num2
 print("multiplication of number is :", multiply)
 divide = num1 / num2
 print("dividend of  number is ", divide)
-print("Formated_num1 is : ", f"{num1 : .5f}")
-print("Formated_num2 is : ", f"{num2 : .5f}")
+print("Formated_num1 is : ", f"{num1: .5f}")
+print("Formated_num2 is : ", f"{num2: .5f}")
