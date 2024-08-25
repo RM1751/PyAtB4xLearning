@@ -4,18 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd040de1-e631-414e-a356-0a2cbd17e6b6" name="Changes" comment="Lab 20 aug 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab058.py" afterDir="false" />
+    <list default="true" id="dd040de1-e631-414e-a356-0a2cbd17e6b6" name="Changes" comment="task 10,11 aug 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab072.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +93,21 @@
     "Python.Lab055.executor": "Run",
     "Python.Lab056.executor": "Run",
     "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab063.executor": "Run",
+    "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab067.executor": "Run",
+    "Python.Lab068.executor": "Run",
+    "Python.Lab069.executor": "Run",
+    "Python.Lab070.executor": "Run",
+    "Python.Lab071.executor": "Run",
+    "Python.Lab072.executor": "Run",
     "Python.Lab_task_032.executor": "Run",
+    "Python.Task_10.executor": "Run",
+    "Python.Task_11.executor": "Run",
     "Python.Task_7.executor": "Run",
     "Python.Task_8.executor": "Run",
     "Python.Task_9.executor": "Run",
@@ -218,9 +234,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab001" />
         <item itemvalue="Python.Lab046" />
         <item itemvalue="Python.Lab041" />
-        <item itemvalue="Python.Lab001" />
         <item itemvalue="Python.Lab010" />
         <item itemvalue="Python.Lab002" />
       </list>
@@ -314,7 +330,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724223757048</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lab 22 aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1724392152393</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724392152393</updated>
+    </task>
+    <task id="LOCAL-00011" summary="task 10,11 aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1724572283805</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724572283805</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,6 +366,8 @@
     <MESSAGE value="Lab 09 aug 2024 added" />
     <MESSAGE value="Lab 17 aug 2024 added" />
     <MESSAGE value="Lab 20 aug 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 20 aug 2024 added" />
+    <MESSAGE value="Lab 22 aug 2024 added" />
+    <MESSAGE value="task 10,11 aug 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 10,11 aug 2024 added" />
   </component>
 </project>
