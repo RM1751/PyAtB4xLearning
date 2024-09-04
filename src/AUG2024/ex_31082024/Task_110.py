@@ -18,7 +18,7 @@ class Employee:
     eid = None
     phone = None
 
-    def __init__(self, name, age, number, address, eid):
+    def __init__(self, name, age, number, addre0ss, eid):
         self.name = name
         self.age = age
         self.number = number
