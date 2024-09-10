@@ -4,18 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd040de1-e631-414e-a356-0a2cbd17e6b6" name="Changes" comment=" /06/2024 sept 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_07092024/Lab135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_07092024/Lab137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_07092024/Lab138.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_07092024/Lab139.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_07092024/Lab140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_07092024/Lab141.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_07092024/Lab142.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_07092024/Lab143.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_07092024/Lab144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_07092024/Lab145.py" afterDir="false" />
+    <list default="true" id="dd040de1-e631-414e-a356-0a2cbd17e6b6" name="Changes" comment=" /08/2024 sept 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab147.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab150.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab151.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab153.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab154.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab156.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab158.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab159.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab160.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab161.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab162.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab163.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab164.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab166.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/ex_10092024/pra/pramod.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab122.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab122.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab123.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab124.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab124.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab125.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab125.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab126.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab126.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab127.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab127.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab128.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab128.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab129.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab129.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab131.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab131.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab132.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab132.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab133.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab133.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/Lab134.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/Lab134.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep2024/EX_05092024/lab130.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep2024/ex_05092024/lab130.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +186,23 @@
     "Python.Lab143.executor": "Run",
     "Python.Lab144.executor": "Run",
     "Python.Lab145.executor": "Run",
+    "Python.Lab146.executor": "Run",
+    "Python.Lab147.executor": "Run",
+    "Python.Lab148.executor": "Run",
+    "Python.Lab149.executor": "Run",
+    "Python.Lab150.executor": "Run",
+    "Python.Lab152.executor": "Run",
+    "Python.Lab153.executor": "Run",
+    "Python.Lab154.executor": "Run",
+    "Python.Lab155.executor": "Run",
+    "Python.Lab156.executor": "Run",
+    "Python.Lab157.executor": "Run",
+    "Python.Lab158.executor": "Run",
+    "Python.Lab159.executor": "Run",
+    "Python.Lab160.executor": "Run",
+    "Python.Lab161.executor": "Run",
+    "Python.Lab162.executor": "Run",
+    "Python.Lab163.executor": "Run",
     "Python.Lab_task_032.executor": "Run",
     "Python.Task_10.executor": "Run",
     "Python.Task_11.executor": "Run",
@@ -174,11 +218,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ravi\PycharmProjects\PyAtB4xLearning\src\Sep2024\ex_10092024\pra" />
+      <recent name="C:\Users\Ravi\PycharmProjects\PyAtB4xLearning\src\Sep2024\ex_10092024" />
+      <recent name="C:\Users\Ravi\PycharmProjects\PyAtB4xLearning\src\Sep2024\ex_05092024" />
       <recent name="C:\Users\Ravi\PycharmProjects\PyAtB4xLearning\src\Sep2024\ex_03092024" />
       <recent name="C:\Users\Ravi\PycharmProjects\PyAtB4xLearning\src\AUG2024" />
-      <recent name="C:\Users\Ravi\PycharmProjects\PyAtB4xLearning\src\Aug" />
-      <recent name="C:\Users\Ravi\PycharmProjects\PyAtB4xLearning\src\ex_31082024" />
-      <recent name="C:\Users\Ravi\PycharmProjects\PyAtB4xLearning\src\ex_10082024" />
     </key>
   </component>
   <component name="RunManager">
@@ -196,28 +240,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/Lab001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyAtB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_13082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_13082024/Lab010.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,6 +292,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab159" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyAtB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sep2024/ex_10092024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sep2024/ex_10092024/Lab159.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyAtB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -294,11 +338,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab159" />
         <item itemvalue="Python.Lab001" />
         <item itemvalue="Python.practice" />
         <item itemvalue="Python.Lab046" />
         <item itemvalue="Python.Lab041" />
-        <item itemvalue="Python.Lab010" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +498,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725606813074</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary=" /08/2024 sept 2024 added">
+      <option name="closed" value="true" />
+      <created>1725805525232</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725805525232</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -481,6 +533,7 @@
     <MESSAGE value=" /08/2024 aug 2024 added" />
     <MESSAGE value=" /02/2024 sept 2024 added" />
     <MESSAGE value=" /06/2024 sept 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value=" /06/2024 sept 2024 added" />
+    <MESSAGE value=" /08/2024 sept 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value=" /08/2024 sept 2024 added" />
   </component>
 </project>
